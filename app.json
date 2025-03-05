@@ -27,7 +27,7 @@
       "value": ""
     },
     "BOT_OWNER_ID": {
-      "description": "Enter Your Telegram id",
+      "description": "@Leo_scott_01",
       "value": ""
     },
     "BANNED_USERS": {
@@ -46,7 +46,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "paid"
+      "size": "free"
     }
   }
 }
